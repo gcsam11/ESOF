@@ -1,0 +1,5 @@
+## Elevator Pitch
+
+Historians need a simpler and innovative way of charting their findings, be it photographs or ancient texts, alongside the most important families in human history. With TreeDesigner, a genealogy tree builder app with the goal to make it easy and enjoyable for everyone to discover and explore history, users can build and customize their tree using intuitive tools and beautiful templates. Our app is designed to provide an interface that makes navigation a fun and interactive experience, while making sure it doesn't lack good research functionality and features. We aim to make genealogy research enjoyable for both casual and professional users, with a focus on simplicity and creativity. We differ from our competitors by letting our users create trees that do not just register family relationships, but also allowing them to save texts and images by associating them with a person that exists in a tree. 
+
+Is it possible to share this much history in such a compact and spontaneous way?

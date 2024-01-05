@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198941437478",
+    "project_id": "treedesigner-212f0",
+    "storage_bucket": "treedesigner-212f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198941437478:android:63d97e586be6feec28c0e7",
+        "android_client_info": {
+          "package_name": "com.example.tree_designer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198941437478-v6cg5kghllg07u5rh8vh6nfsdccaf7q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwbXkXeRciFhrTAfFQiQuuccBFT5KFUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198941437478-v6cg5kghllg07u5rh8vh6nfsdccaf7q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
